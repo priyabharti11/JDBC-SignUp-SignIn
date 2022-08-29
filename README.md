@@ -15,9 +15,8 @@
 <img align="center" width="100%" src= "https://user-images.githubusercontent.com/91482888/187229123-ed5eb263-8db3-404b-adf0-3ac41472f403.png"/>
 <img align="center" width="100%" src= "https://user-images.githubusercontent.com/91482888/187229207-d06a737c-7e20-42a9-aaa1-27fa585cb4ee.png"/>
 <img align="center" width="100%" src= "https://user-images.githubusercontent.com/91482888/187229269-1ef74d62-aca3-4125-b410-8b03f3e916b6.png"/>
+<h3>My Work in Registration Page</h3>
+<img align="center" width="100%" src= "https://user-images.githubusercontent.com/91482888/187298704-28560460-6442-4275-b605-60b88269dcef.png"/>
 <img align="center" width="100%" src= ""/>
 <img align="center" width="100%" src= ""/>
-<img align="center" width="100%" src= ""/>
-<img align="center" width="100%" src= ""/>
-<img align="center" width="100%" src= ""/>
-<img align="center" width="100%" src= ""/>
+
