@@ -1,5 +1,6 @@
 # JDBC-SignUp-SignIn
-Signup or Sign In With DB Connectivity
+<h3>Technology :</h3>
+<h4 align="left">1. Programming Language - JAVA<br>2. FrontEnd - Swing<br>3. BackEnd - JDBC<br> 4. Tools - NetBeans, XAMPP</h4>
 <h3> Menu Page</h3>
 <img align="center" width="100%" src= "https://user-images.githubusercontent.com/91482888/187228127-25c439b7-9fee-402d-8d48-73a544c6d82a.png"/>
 <h3> Login Page</h3>
